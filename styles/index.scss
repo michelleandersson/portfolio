@@ -2,9 +2,11 @@ $main-font: 'Roboto', sans-serif;
 
 @import 'colors'; 
 @import 'screen-sizes'; 
+@import 'vars'; 
 @import 'base'; 
 @import 'header'; 
 @import 'banner'; 
 @import 'about'; 
 @import 'projects'; 
 @import 'contact'; 
+@import 'footer'; 
